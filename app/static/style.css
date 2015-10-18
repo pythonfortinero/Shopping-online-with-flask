@@ -1,0 +1,22 @@
+#azul {  
+  color: #3a57c1;  
+  background-color: white;  
+  display: block;  
+  visibility: visible;  
+}
+
+#especial { 
+    border-radius: 15px;
+    border: 2px solid grey;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    background-color: rgba(255, 0, 0, 0.3);
+    width: 250px;
+    border:3px solid grey;
+    padding:8px;
+    box-shadow: 4px 4px 10px grey;
+}
+  
+#especial:hover {
+    background-color: blue;
+}
